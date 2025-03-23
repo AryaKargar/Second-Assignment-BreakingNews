@@ -33,14 +33,10 @@ Arya Kargar
 
 
 ## Version History
-0.2: Bug fixes and optimizations.c
+* 0.2: menu added and classes completed
 
-0.1: Initial release.
+* 0.1: Initial news done 
 
-License
-MIT License.
 
-Acknowledgments
+## Acknowledgments
 NewsAPI for the data.
-
-Code examples from awesome-readme.
