@@ -1,62 +1,42 @@
-# Project Title
-
-Simple overview of use/purpose.
-
+# News Aggregator Project
 ## Description
-
-An in-depth paragraph about your project and overview of use.
+A Java-based console application that fetches the latest news from NewsAPI, parses the data, and displays articles with basic details. Users can view titles, select an article, and see more information.
 
 ## Getting Started
-
 ### Dependencies
+* Java 23
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Gson library
+
+* NewsAPI Key
 
 ### Installing
+* Clone or download the project.
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Add the Gson library to your project dependencies.
 
-### Executing program
+* Get your API key from NewsAPI.
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Run the program
+
+### Running the Program
+* After running, the program will display a list of news titles.
+
+* Select an article to view details.
 
 ## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Ensure you have a valid API key and are using Java 23.
 
 ## Authors
+Arya Kargar
+* @aryakargar85@gmail.com
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
+* 0.2: menu added and classes completed
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+* 0.1: Initial news done 
 
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+NewsAPI for the data.
